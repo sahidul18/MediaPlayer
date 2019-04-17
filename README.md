@@ -11,7 +11,7 @@
 
   * Playing a media file.
 
-    <img src="images/img2.PNG">
+    <img src="images/img2.PNG" width="500">
 
 
   * Exit the Program.
