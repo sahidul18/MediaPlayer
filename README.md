@@ -16,4 +16,4 @@
 
   * Exit the Program.
 
-    <img src="images/img3.PNG">
+    <img src="images/img3.PNG" width="500">
