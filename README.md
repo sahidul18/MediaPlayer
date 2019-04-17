@@ -7,7 +7,7 @@
 
   * After running the Program.
 
-    <img src="images/img1.PNG">
+    <img src="images/img1.PNG" width="300">
 
   * Playing a media file.
 
